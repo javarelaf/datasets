@@ -1,0 +1,5 @@
+﻿Acciones de mantenimiento;Costo por lucro cesante [USD/h];Tiempo medio de inspección [h];Tiempo medio de reemplazo de herramienta [h];Tiempo medio de reparación de daños colaterales [h];Costo horas-hombres [USD/h];Costo de repuesto herramienta [USD];Vida útil remanente promedio [min];Costo medio de repuestos daño colateral [USD];Costo total [USD]
+Intervención preventiva con falla (TP); $ 1.000,00 ;1,0;2,0;0,0; $ 75,00 ; $ 450,00 ;0,00; $ -   ; $ 3.675,00 
+Intervención preventiva sin falla (FP); $ 1.000,00 ;1,0;2,0;0,0; $ 75,00 ; $ 450,00 ;53,00; $ -   ; $ 4.558,33 
+Parada correctiva por falla del equipo (FN); $ 1.000,00 ;2,0;4,0;6,0; $ 75,00 ; $ 450,00 ;0,00; $ 3.500,00 ; $ 16.850,00 
+No intervención y buena operación (TN); $ 1.000,00 ;0,0;0,0;0,0; $ 75,00 ; $ -   ;0,00; $ -   ; $ -   
